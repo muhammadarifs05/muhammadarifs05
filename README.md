@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 
 ##### My Github Stats
 
-![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadarifs05&show_icons=true&theme=dark)
+![Arif's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadarifs05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) 
+
+<!-- (https://github-readme-stats.vercel.app/api?username=muhammadarifs05&show_icons=true&theme=dark) /> -->
 
 ##### Skills
 
